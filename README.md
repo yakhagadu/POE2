@@ -11,7 +11,7 @@ A full-stack web-based event management platform built for South Africa's road r
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [User Roles](#user-roles)
@@ -35,9 +35,9 @@ RaceDay is built progressively across three parts:
 
 | Part | Focus | Status |
 |------|-------|--------|
-| **Part 1** | System planning — ERD, API endpoint plan, SQL schema | ✅ Complete |
-| **Part 2** | RESTful API in C# (this submission) | ✅ Complete |
-| **Part 3** | MVC web app + Azure Blob Storage + Docker | ⏳ Upcoming |
+| **Part 1** | System planning — ERD, API endpoint plan, SQL schema |  Complete |
+| **Part 2** | RESTful API in C# (this submission) |  Complete |
+| **Part 3** | MVC web app + Azure Blob Storage + Docker |  Upcoming |
 
 The RaceDay API powers the entire system. It handles:
 - Authentication (register, login, JWT sessions)
@@ -53,14 +53,14 @@ The RaceDay API powers the entire system. It handles:
 
 The system supports **two distinct user roles**, enforced at the API level:
 
-### 🎽 Organiser
+###  Organiser
 - Register an account with an organisation name and contact details
 - Create, edit, and delete events
 - Manage event categories (distances, age groups, gender restrictions)
 - View all enrolments for their events
 - Capture and manage participant results
 
-### 🏃 Participant
+###  Participant
 - Register an account with personal and emergency contact details
 - Browse and view upcoming events
 - Enter an event by selecting a category
