@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\RaceDay\RaceDay.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_RaceDay.Tests
+C:\Users\Student\source\repos\RaceDay\RaceDay.Tests\obj\Debug\net8.0\RaceDay.Tests.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\RaceDay\RaceDay.Tests\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\Users\Student\source\repos\RaceDay\RaceDay.Tests\obj\Debug\net8.0\RaceDay.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\RaceDay\RaceDay.Tests\obj\Debug\net8.0\RaceDay.Tests.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\RaceDay\RaceDay.Tests\obj\Debug\net8.0\RaceDay.Tests.AssemblyInfo.cs
+C:\Users\Student\source\repos\RaceDay\RaceDay.Tests\obj\Debug\net8.0\RaceDay.Tests.csproj.CoreCompileInputs.cache
