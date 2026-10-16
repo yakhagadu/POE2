@@ -74,6 +74,8 @@ Role enforcement is applied via `[Authorize(Roles = "Organiser")]` / `[Authorize
 ## System Architecture
 
 <img width="484" height="570" alt="image" src="https://github.com/user-attachments/assets/2e045142-2e41-47cf-860f-71374b028c0d" />
+<img width="279" height="728" alt="image" src="https://github.com/user-attachments/assets/c97ba13b-820b-4600-bb22-547cc36cf649" />
+
 
 
 ---
@@ -92,15 +94,4 @@ Before running this project, ensure you have:
 
 ---
 
-## Setup Instructions
-
-### 1. Clone the repository
-
-```bash
-git clone <YOUR_GITHUB_REPO_URL>
-cd RaceDay
-
-
-
-<img width="352" height="742" alt="image" src="https://github.com/user-attachments/assets/4ac11623-2d2b-41d8-a748-3d9bfcf69b6b" />
 
